@@ -1,0 +1,9 @@
+Produccion
+User: capsonic@cjm7cu4m.jadeinnovations.com
+Pass: fpe1ck9phd
+URL: ftp://cjm7cu4m.jadeinnovations.com
+ 
+Sand Box
+User: capsonic@chq1z1.jadeinnovations.com
+Pass: dt4qf4dsxm
+URL: ftp://chq1z1.jadeinnovations.com

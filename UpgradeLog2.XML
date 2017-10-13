@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CAP_JADE_Interface">
+</Property><Property Name="Solution File" Value="C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface.sln">
+</Property><Property Name="Date" Value="Monday, October 14, 2013">
+</Property><Property Name="Time" Value="8:16:24 AM">
+</Property><Property Name="Log Number" Value="2">
+</Property></Properties><Event ErrorLevel="0" Project="BD_MNG" Source="BD_MNG\BD_MNG.csproj" Description="Project file successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup1\BD_MNG.csproj">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="BD_MNG\BD_MNG.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup1\BD_MNG.cs">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="BD_MNG\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup1\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="BD_MNG\ClassDiagram1.cd" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup1\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="BD_MNG\BD_MNG.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="BD_MNG" Source="BD_MNG\BD_MNG.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="BD_MNG" Source="BD_MNG\BD_MNG.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

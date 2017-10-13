@@ -1,0 +1,161 @@
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Form1.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csproj.GenerateResource.Cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+C:\Documents and Settings\aacorrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+C:\Documents and Settings\aacorrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.pdb
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.dll
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.dll
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.pdb
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.pdb
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResolveAssemblyReference.cache
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Form1.resources
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Properties.Resources.resources
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResGen.read.1.tlog
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResGen.write.1.tlog
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.FSTI_TEST.resources
+H:\USERS\Acorrales\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.PendingOrders.resources
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.pdb
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Form1.resources
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.FSTI_TEST.resources
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.PendingOrders.resources
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResGen.read.1.tlog
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResGen.write.1.tlog
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe.manifest
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.application
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Form1.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.FSTI_TEST.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.PendingOrders.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResGen.read.1.tlog
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\ResGen.write.1.tlog
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe.manifest
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.application
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+C:\Users\Aaron Corrales\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe.manifest
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.application
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.pdb
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.dll
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.dll
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.pdb
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.pdb
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csprojResolveAssemblyReference.cache
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Form1.resources
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.FSTI_TEST.resources
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.PendingOrders.resources
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Properties.Resources.resources
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csproj.GenerateResource.Cache
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe.manifest
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.application
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+H:\USERS\Acorrales\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe.manifest
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.application
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.dll
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.pdb
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csprojResolveAssemblyReference.cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Form1.resources
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.FSTI_TEST.resources
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.PendingOrders.resources
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Properties.Resources.resources
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csproj.GenerateResource.Cache
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe.manifest
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.application
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+C:\Users\Aaron Corrales\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe.manifest
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.application
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.pdb
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.dll
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.dll
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.pdb
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.pdb
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csprojResolveAssemblyReference.cache
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Form1.resources
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.FSTI_TEST.resources
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.PendingOrders.resources
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Properties.Resources.resources
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csproj.GenerateResource.Cache
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe.manifest
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.application
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+D:\SOURCE_CODE\Amalgamma Servers\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe.manifest
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.application
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.pdb
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.dll
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.dll
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FourthShift.TransactionClient.dll
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FourthShift.Transactions.dll
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FourthShift.TransactionProxy.dll
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FourthShift.SDKLibrary.dll
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.pdb
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.pdb
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csprojResolveAssemblyReference.cache
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Form1.resources
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.FSTI_TEST.resources
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.PendingOrders.resources
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Properties.Resources.resources
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csproj.GenerateResource.Cache
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe.manifest
+C:\Users\zion_\Desktop\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.application
+C:\Users\zion_\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+C:\Users\zion_\Desktop\Proyeco CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe.manifest
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.application
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.exe
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\CAP_JADE_Interface.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FourthShift.TransactionClient.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FourthShift.Transactions.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FourthShift.TransactionProxy.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FourthShift.SDKLibrary.dll
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\BD_MNG.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\bin\Debug\FS4Amalgamma.pdb
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csprojResolveAssemblyReference.cache
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Form1.resources
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.FSTI_TEST.resources
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.PendingOrders.resources
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.Properties.Resources.resources
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.csproj.GenerateResource.Cache
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.exe.manifest
+C:\Users\zion_\Desktop\Proyecto CAPSONIC\VS 2010\CAP_JADE_Interface\CAP_JADE_Interface\obj\Debug\CAP_JADE_Interface.application

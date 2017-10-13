@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="CAP_JADE_Interface">
+</Property><Property Name="Solution File" Value="C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\CAP_JADE_Interface.suo">
+</Property><Property Name="Date" Value="Monday, October 14, 2013">
+</Property><Property Name="Time" Value="8:14 AM">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="CAP_JADE_Interface.sln" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface.sln">
+</Event><Event ErrorLevel="0" Project="" Source="CAP_JADE_Interface.suo" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface.suo">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\CAP_JADE_Interface.csproj" Description="Project file successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\CAP_JADE_Interface.csproj">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\Form1.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\Form1.cs">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\Form1.Designer.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\FTP_Service.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\FTP_Service.cs">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\Program.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\Program.cs">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\ClassDiagram1.cd" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\capsonic logo.ico" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\capsonic logo.ico">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\Form1.resx" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\Form1.resx">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Aaron Corrales\Desktop\CAP_JADE_Interface\Backup\CAP_JADE_Interface\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\CAP_JADE_Interface.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\CAP_JADE_Interface.csproj" Description="Converted">
+</Event><Event ErrorLevel="1" Project="BD_MNG" Source="..\Amalgamma\BD_MNG\BD_MNG.csproj" Description="Warning: The project file is being backed up to a relative path that differs from the original solution relative path.  The difference in folder hierarchy may create problems in opening or building the backed up solution and project.">
+</Event><Event ErrorLevel="2" Project="BD_MNG" Source="..\Amalgamma\BD_MNG\BD_MNG.csproj" Description="Unable to open project file to perform upgrade.  ">
+</Event><Event ErrorLevel="0" Project="" Source="CAP_JADE_Interface.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="CAP_JADE_Interface.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="CAP_JADE_Interface" Source="CAP_JADE_Interface\CAP_JADE_Interface.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

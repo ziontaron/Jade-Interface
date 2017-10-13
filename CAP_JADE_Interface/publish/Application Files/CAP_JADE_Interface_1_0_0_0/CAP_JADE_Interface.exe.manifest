@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="CAP_JADE_Interface.exe" version="1.0.0.0" publicKeyToken="8992a51d626988d3" language="neutral" processorArchitecture="x86" type="win32" />
+  <description asmv2:iconFile="capsonic logo.ico" xmlns="urn:schemas-microsoft-com:asm.v1" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="CAP_JADE_Interface" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+    <commandLine file="CAP_JADE_Interface.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="FourthShift.SDKLibrary" version="1.0.7300.0" publicKeyToken="541B4AFF0F04B60A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="FourthShift.TransactionClient" version="1.0.7300.0" publicKeyToken="541B4AFF0F04B60A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="FourthShift.TransactionProxy" version="1.0.7300.0" publicKeyToken="541B4AFF0F04B60A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="FourthShift.Transactions" version="1.0.7300.0" publicKeyToken="541B4AFF0F04B60A" language="neutral" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="BD_MNG.dll" size="26112">
+      <assemblyIdentity name="BD_MNG" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>e2WrwcKWA0SkDkce+09SHwS2HaM=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="CAP_JADE_Interface.exe" size="124928">
+      <assemblyIdentity name="CAP_JADE_Interface" version="1.0.0.0" language="neutral" processorArchitecture="x86" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>XY2s9aK3eFKHUM8iOcJQbrvYYDo=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="FS4Amalgamma.dll" size="14848">
+      <assemblyIdentity name="FS4Amalgamma" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>4E24cesW9DlvaM1v9EeJP2aNdWs=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="capsonic logo.ico" size="25214">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>nk2LRRZYSFf8MOdQM6dDsqa+psM=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="download.png" size="2734">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>Kj9q+splqYXnkchFOYYEreC8jQk=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="NoDownload.png" size="7690">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>R+GJKIzRbmt3Eg4Wn85l9Ftdea0=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="NoUpload.png" size="7982">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>NwpHoRHDRATqkU9lLmqRxlYWnaw=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="Upload.png" size="2663">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>XsemxD+QMVyv+IYx9H0P08bJ8oI=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=PC-AARONI7\Aaron Corrales" issuerKeyHash="8719f9cd24040b2200635151a05478cd5998ec2f" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>lnLLUAurodd7YMs10PvUnfryfIc=</DigestValue></Reference></SignedInfo><SignatureValue>jsq6RLzh+bRioEtKweYtnNmulNB9LiqNMSYYbVJxzC8Zqoju3DNzOEW7bcPIGS0jpvqakV/Az58NSV2+Sj+jBSJOWK861DGGroXoi1lptQ3jaOwAHicNM0+zVV1j2EweItLNUwhzRcg1W4hJWD2OctH6xj1C5kuAm6unY4n3MbI=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>qefQHQzonlO3NjrDUtg4qZY4Q4gke4yqsuokFbK1UMxR2P1KiMPXsiZ0RzFuyMSpTeTlkHU/kjN2Jb/a/akALS/DCwMd/W2QRplHAL7Tx5HdwxUxdLNdd4xX7T2ZDHHm8v4PpMbd8MorUVcxfo9CycecT1/7DP2At5BUTBye8aM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="877cf2fa9dd4fbd035cb607bd7a1ab0b50cb7296" Description="" Url=""><as:assemblyIdentity name="CAP_JADE_Interface.exe" version="1.0.0.0" publicKeyToken="8992a51d626988d3" language="neutral" processorArchitecture="x86" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=PC-AARONI7\Aaron Corrales</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>XvMSoFaQpWzGzbv+txOiAffzTh8=</DigestValue></Reference></SignedInfo><SignatureValue>I6MmXyv06s9zA8W49aydXruV2t8M26wm+WYSrmGrYpSV6dxjrXAWZvK80LFd1LVlLg3qrFGyRW5IBScrNwghPWKsLgeQEoADSNsqg6VnRu7acOnPNgHLifmnTbb2AFb46AVsqC52w62Qpbo7rEFaXivUzmA0kQYdGEwcSKz+qNo=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>qefQHQzonlO3NjrDUtg4qZY4Q4gke4yqsuokFbK1UMxR2P1KiMPXsiZ0RzFuyMSpTeTlkHU/kjN2Jb/a/akALS/DCwMd/W2QRplHAL7Tx5HdwxUxdLNdd4xX7T2ZDHHm8v4PpMbd8MorUVcxfo9CycecT1/7DP2At5BUTBye8aM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB/TCCAWagAwIBAgIQYRaMutCRaI1JlGpqJ9JZDjANBgkqhkiG9w0BAQUFADA9MTswOQYDVQQDHjIAUABDAC0AQQBBAFIATwBOAEkANwBcAEEAYQByAG8AbgAgAEMAbwByAHIAYQBsAGUAczAeFw0xNDAzMjAyMjA2MjlaFw0xNTAzMjEwNDA2MjlaMD0xOzA5BgNVBAMeMgBQAEMALQBBAEEAUgBPAE4ASQA3AFwAQQBhAHIAbwBuACAAQwBvAHIAcgBhAGwAZQBzMIGfMA0GCSqGSIb3DQEBAQUAA4GNADCBiQKBgQCp59AdDOieU7c2OsNS2DipljhDiCR7jKqy6iQVsrVQzFHY/UqIw9eyJnRHMW7IxKlN5OWQdT+SM3Ylv9r9qQAtL8MLAx39bZBGmUcAvtPHkd3DFTF0s113jFftPZkMceby/g+kxt3wyitRVzF+j0LJx5xPX/sM/YC3kFRMHJ7xowIDAQABMA0GCSqGSIb3DQEBBQUAA4GBAB3op1ZkVD5DsVzAZSvG7UYSwqnDyii04RTyQRx03CPpZ89TUsOR58PVWFwzprpJyru4ZBr1GpYhlA7OPQWL0VszdrGotPQclbic6cm+UcRaoklhUd/HHz/mViKSHYtG8nHA1D54DDkRdRWb2xvfsO/jXPucT+dZ3esGgGN16jRp</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>
